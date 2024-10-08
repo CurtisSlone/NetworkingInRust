@@ -1,0 +1,10 @@
+[package]
+name = "serde-custom"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = "1.0.2"
+serde_derive = "1.0.2"
+serde_json = "1.0.10"
+serde_test = "1.0"
